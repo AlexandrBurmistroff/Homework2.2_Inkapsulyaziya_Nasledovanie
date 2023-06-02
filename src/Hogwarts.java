@@ -28,7 +28,6 @@ public class Hogwarts {
     public int getTransgressionDistance() {
         return transgressionDistance;
     }
-
     public void setTransgressionDistance(int transgressionDistance) {
         this.transgressionDistance = transgressionDistance;
     }

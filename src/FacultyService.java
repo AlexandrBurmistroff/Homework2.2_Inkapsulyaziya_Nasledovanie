@@ -46,7 +46,6 @@ public class FacultyService {
         } else
             System.out.println(student2.getName() + " лучший студент Ravenclaw, чем студент " + student1.getName());
     }
-
     public void compareStudents(Slytherin student1, Slytherin student2) {
         int comparison1 = student1.getCunning() + student1.getDetermination() + student1.getAmbition()
                 + student1.getResourcefulness() + student1.getLustForPower();

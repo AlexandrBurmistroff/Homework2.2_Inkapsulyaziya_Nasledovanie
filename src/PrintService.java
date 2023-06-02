@@ -6,7 +6,6 @@ public class PrintService {
                     + ", расстояние трансгрессии: " + student.getTransgressionDistance());
     }
 
-
     public void print(Gryffindor student) {
             System.out.println("Имя: " + student.getName()
                     + ", сила магии: " + student.getPowerOfMagic()
