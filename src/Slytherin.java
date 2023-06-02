@@ -1,4 +1,5 @@
 public class Slytherin extends Hogwarts {
+
     private int cunning;         //хитрость
     private int determination;   //решительность
     private int ambition;        //амбициозность

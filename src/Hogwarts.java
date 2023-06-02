@@ -1,4 +1,5 @@
 public class Hogwarts {
+
     private String name;
     private int powerOfMagic;            //сила магии
     private int transgressionDistance;   //расстояние трансгрессии

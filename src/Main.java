@@ -1,4 +1,5 @@
 public class Main {
+
     public static void main(String[] args) {
 
         Gryffindor gryffindorPotter = new Gryffindor("Garry Potter", 70, 76, 67, 84, 93);

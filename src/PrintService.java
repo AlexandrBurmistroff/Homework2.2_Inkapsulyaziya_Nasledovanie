@@ -1,6 +1,7 @@
 public class PrintService {
 
     public void printHogwarts(Hogwarts student) {
+
             System.out.println("Имя: " + student.getName()
                     + ", сила магии: " + student.getPowerOfMagic()
                     + ", расстояние трансгрессии: " + student.getTransgressionDistance());

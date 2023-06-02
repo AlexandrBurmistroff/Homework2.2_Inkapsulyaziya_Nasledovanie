@@ -1,4 +1,5 @@
 public class Ravenclaw extends Hogwarts{
+
     private int mind;            //ум
     private int wisdom;          //мудрость
     private int wit;             //остроумие

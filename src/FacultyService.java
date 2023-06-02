@@ -1,4 +1,5 @@
 public class FacultyService {
+
     public void compareStudentsHogwarts(Hogwarts student1, Hogwarts student2) {
         int comparison1 = student1.getPowerOfMagic() + student1.getTransgressionDistance();
         int comparison2 = student2.getPowerOfMagic() + student2.getTransgressionDistance();

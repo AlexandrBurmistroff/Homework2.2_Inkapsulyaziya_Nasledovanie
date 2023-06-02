@@ -1,4 +1,5 @@
 public class Hufflepuff extends Hogwarts{
+
     private int industriousness;      //трудолюбие
     private int loyalty;              //верность
     private int honesty;              //честность
